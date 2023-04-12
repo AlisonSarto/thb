@@ -1,3 +1,19 @@
+body {
+  margin-top: 76px;
+}
+
+nav {
+  width: calc(100% - 30px);
+  margin: 10px 0 0 15px;
+  border-radius: 17px;
+  backdrop-filter: blur(7px);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.dropdown-item {
+  cursor: pointer;
+}
+
 #t1,#t2,#t3,#t4,#t5 {
   min-height: 75vh;
 }
