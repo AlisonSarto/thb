@@ -56,6 +56,11 @@ nav {
   width: 120px;
 }
 
+.carr {
+  width: 75vw;
+  max-width: 500px;
+}
+
 /* +900 */
 @media screen and (min-width:900px) {
   #t1 {
